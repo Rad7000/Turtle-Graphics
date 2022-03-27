@@ -20,6 +20,7 @@ while True:
     right(100)
     backward(90)
     left(100)
+    speed(10)
     if abs(pos()) < 1:
         break
 end_fill()
