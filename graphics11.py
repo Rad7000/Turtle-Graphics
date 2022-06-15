@@ -77,4 +77,3 @@ t.pencolor("navy")
 for x in range(100):
     t.forward(x*4)
     t.left(91)
-t.pencolor("olive")
