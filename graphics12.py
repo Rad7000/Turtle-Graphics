@@ -1,5 +1,4 @@
 import turtle
-import tkinter
 
 t = turtle.Pen()
 t.speed(0)
